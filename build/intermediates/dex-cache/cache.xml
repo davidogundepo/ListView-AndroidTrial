@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/6e7a5d33be6867acce78533e27705194d4c58505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efdc17c1a8ff3b85cf245b6ecd8d39a933f66cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/9c4a28d98684caf021e4ec44aa5cc9a9bf0ec427/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_721c71ab06e817bd97f3fec9824fefa2cd848c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/8ef2e259ebf11f993592aa00cec37a30f3fc8255/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc5b9d5ef349c73957af75046d1a1d01e8f9add9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/DotaLeague/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cafdbd92de4ef2deb4adc8a0e6640658361b3c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/76d483c04ab28428e743f92a171a17c8f6f18a96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6c0ec733b787e007def0f6a69e5f218e3212f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/b53a8f84bc62d586004d33c51dd9e75a282e1a82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e71ffca1049030553f89802328a7e235c8ea7c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/ddaab53f437a9d0e7247542c6ca354f201c659f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40f7bf02f1945bf4bff53fa13e8c1d9428498cb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/DotaLeague/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3acd04931ce7641c13068ef46d76fcb54d47b4b">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f0a20ec52d316010bd8830405fb51763721e7da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/4011a401a15740e90ad63d56c8a699245096fdc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_675147f6da13dca9510bcf1b68794b5fa4f60128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/47d0bd42d804e4b2c72ebe995f95415fc7f9c377/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3609711afb173123c0222424370106addb5db19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/bd68f7acf7356977b553c7c671dedc3f9f257da0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18f4e53fc4334db5c85dd20024c3ea19e2c30df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5efeefc37353f844b55672095721c2b860d355d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/0509e3710522407ed508c3f42f4b6b9ce2bfab30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d0e0dce7ff5c501b12dd7bc7cfe39fcf39691cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/155646d532b4c53648a24cdbeb91748b5354b333/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd33a6c9bd75c673dcd80ae548149ee8adf12b23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/primawan/.android/build-cache/b7b6024afbf24073503e226dc9b13b255112822f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/primawan/DotaLeague/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_579023944e1b74f9ddc5feecce8554dfe6d9ae02/classes.dex" />
+    </item>
+
+</items>
